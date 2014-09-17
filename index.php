@@ -9,7 +9,7 @@
 			.title
 			{
 				width:870;
-				font-size:20px;
+				font-size:22px;
 				color:white;
 				font-family:Arial;
 				
